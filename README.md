@@ -1,7 +1,7 @@
 Data\_Visualization\_Using\_Python
 
 -----
-The aim of this project is to collect, manipulate, visualize and analyze data taken from Kaggle.
+The aim of this project is to collect, manipulate, visualize and analyze data about various Indian Cities taken from Kaggle.
 
 Libraries used: -
 
